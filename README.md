@@ -3,32 +3,37 @@
 ## I am Sargis
 
 🌱 I’m currently learning JavasScript and React
+
 📫 How to reach me:
 -  <img  height="16"  width="16"  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg"  /> [twitter](https://twitter.com/AbovyanSargis)
 -  <img  height="16"  width="16"  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg"  /> [linkedIn](https://www.linkedin.com/in/sargis-abovyan-7ab560b4/)
 
 ---
 ### Languages and Tools:
----
 
-- <img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  />
 
-- <img  align="left"  alt="HTML5"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
+<img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  /><br>
 
-- <img  align="left"  alt="CSS3"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  />
 
-- <img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  />
+<img  align="left"  alt="HTML5"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  /><br>
 
-- <img  align="left"  alt="Git"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  />
+<img  align="left"  alt="CSS3"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  /> <br>
 
-- <img  align="left"  alt="GitHub"  width="26px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  />
----
+ <img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  /> <br>
+
+ <img  align="left"  alt="Git"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  /> <br>
+
+ <img  align="left"  alt="GitHub"  width="26px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  />
+ 
+
+<br><br>
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabovyan&count_private=true&hide=stars,prs&show_icons=true&theme=dark)](https://github.com/sabovyan/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact)](https://github.com/sabovyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact&theme=dark)](https://github.com/sabovyan/github-readme-stats)
 
 
 
