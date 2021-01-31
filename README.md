@@ -36,8 +36,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact&theme=react)](https://github.com/sabovyan/github-readme-stats))
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabovyan&theme=react)](https://github.com/sabovyan/github-readme-stats)
-
 
 <!--
 **sabovyan/sabovyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
