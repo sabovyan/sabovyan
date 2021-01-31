@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact)](https://github.com/sabovyan/github-readme-stats&theme=react))
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabovyan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabovyan)](https://github.com/sabovyan/github-readme-stats)
 
 
 <!--
