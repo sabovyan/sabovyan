@@ -32,9 +32,9 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabovyan&count_private=true&hide=stars,prs&show_icons=true&theme=radical)](https://github.com/sabovyan/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabovyan&count_private=true&hide=stars,prs&show_icons=true&theme=react)](https://github.com/sabovyan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact)](https://github.com/sabovyan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact)](https://github.com/sabovyan/github-readme-stats&theme=react))
 
 <!--
 **sabovyan/sabovyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
