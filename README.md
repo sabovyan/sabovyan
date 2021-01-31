@@ -34,9 +34,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabovyan&count_private=true&hide=stars,prs&show_icons=true&theme=react)](https://github.com/sabovyan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact)](https://github.com/sabovyan/github-readme-stats&theme=react))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact&theme=react)](https://github.com/sabovyan/github-readme-stats))
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabovyan)](https://github.com/sabovyan/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabovyan&theme=react)](https://github.com/sabovyan/github-readme-stats)
 
 
 <!--
