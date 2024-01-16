@@ -2,27 +2,27 @@
 
 👋 **Sargis**: Hey, thinking of updating my GitHub README. Any suggestions?
 
-🤖 **AI**: Hello, Sargis! How about shining a light on your expertise as a versatile web developer with a strong foundation built on React and Next.js experience?
+🤖 **AI**: Hello, Sargis! How about shining a light on your expertise as a versatile web developer with a strong foundation built on React, Next.js and Typescript experience?
 
 👋 **Sargis**: Sounds perfect! Where do I start?
 
-🤖 **AI**: Begin by introducing yourself as Sargis, a seasoned web developer with hands-on experience in crafting engaging digital experiences using React, Next.js, and their rich ecosystems.
+🤖 **AI**: Begin by introducing yourself as Sargis, a seasoned web developer with hands-on experience in crafting engaging digital experiences using TypeScript, Next.js, and their rich ecosystems.
 
 👋 **Sargis**: Got it! And for my ongoing project?
 
-🤖 **AI**: Highlight your current project, showcasing your proficiency in React, Next.js, and their ecosystems. Emphasize that special touch to the project.
+🤖 **AI**: Highlight your current project, showcasing your proficiency in Typescript, React and their ecosystems. Emphasize that special touch to the project.
 
 👋 **Sargis**: Excellent! I also want to express my love for NeoVim. How do I weave that in?
 
-🤖 **AI**: Wonderful! Mention your development environment tailored for efficiency and coding zen, with a special appreciation for NeoVim, all while leveraging your React and Next.js mastery to enhance the development experience.
+🤖 **AI**: Wonderful! Mention your development environment tailored for efficiency and coding zen, with a special appreciation for NeoVim, all while leveraging your TypeScript, React and Next.js mastery to enhance the development experience.
 
 👋 **Sargis**: Perfect! How should I wrap it up?
 
-🤖 **AI**: Invite developers to explore your repositories, highlighting your journey and growth as a web developer with a strong focus on React, Next.js, and their ecosystems. Conclude with a warm wish for happy coding!
+🤖 **AI**: Invite developers to explore your repositories, highlighting your journey and growth as a web developer with a strong focus on Typescript, React, Next.js, and their ecosystems. Conclude with a warm wish for happy coding!
 
 👋 **Sargis**: Looks good! How about adding my socials and some stats?
 
-🤖 **AI**: Absolutely! Include your Twitter and LinkedIn links, and showcase your skills with cool icons. Share some GitHub stats to underline your proficiency, keeping in mind React and Next.js mastery.
+🤖 **AI**: Absolutely! Include your Twitter and LinkedIn links, and showcase your skills with cool icons. Share some GitHub stats to underline your proficiency, keeping in mind TypeScript and Next.js mastery.
 
 ---
 📫 How to reach me:
@@ -34,7 +34,7 @@
 ---
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,html,css,nodejs,docker,firebase,git,github,githubactions,js,jest,lua,neovim,nextjs,nodejs,prisma,react,redux,remix,tailwind,,webpacktheme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,html,css,nodejs,docker,firebase,git,github,githubactions,js,jest,lua,neovim,nextjs,nodejs,prisma,react,redux,remix,tailwind,ts,,webpacktheme=light)](https://skillicons.dev)
 
 <br>
 
