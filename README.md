@@ -1,11 +1,30 @@
-## Hi there 👋
+# The Intro
 
-## I am Sargis
+👋 **Sargis**: Hey, thinking of updating my GitHub README. Any suggestions?
 
-🔭 I’m currently working at Simply Technologies
+🤖 **AI**: Hello, Sargis! How about shining a light on your expertise as a versatile web developer with a strong foundation built on React and Next.js experience?
 
-🌱 I’m currently learning functional programming
+👋 **Sargis**: Sounds perfect! Where do I start?
 
+🤖 **AI**: Begin by introducing yourself as Sargis, a seasoned web developer with hands-on experience in crafting engaging digital experiences using React, Next.js, and their rich ecosystems.
+
+👋 **Sargis**: Got it! And for my ongoing project?
+
+🤖 **AI**: Highlight your current project, showcasing your proficiency in React, Next.js, and their ecosystems. Emphasize that special touch to the project.
+
+👋 **Sargis**: Excellent! I also want to express my love for NeoVim. How do I weave that in?
+
+🤖 **AI**: Wonderful! Mention your development environment tailored for efficiency and coding zen, with a special appreciation for NeoVim, all while leveraging your React and Next.js mastery to enhance the development experience.
+
+👋 **Sargis**: Perfect! How should I wrap it up?
+
+🤖 **AI**: Invite developers to explore your repositories, highlighting your journey and growth as a web developer with a strong focus on React, Next.js, and their ecosystems. Conclude with a warm wish for happy coding!
+
+👋 **Sargis**: Looks good! How about adding my socials and some stats?
+
+🤖 **AI**: Absolutely! Include your Twitter and LinkedIn links, and showcase your skills with cool icons. Share some GitHub stats to underline your proficiency, keeping in mind React and Next.js mastery.
+
+---
 📫 How to reach me:
 
 <img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" /> [@AbovyanSargis](https://twitter.com/AbovyanSargis)
@@ -13,53 +32,36 @@
 <img  height="16"  width="16"  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" /> [Sargis Abovyan](https://www.linkedin.com/in/sargis-abovyan-7ab560b4/)
 
 ---
-
 ### Languages and Tools:
 
- <img  align="left"  alt="JavaScript"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  />
+[![My Skills](https://skillicons.dev/icons?i=bash,html,css,nodejs,docker,firebase,git,github,githubactions,js,jest,lua,neovim,nextjs,nodejs,prisma,react,redux,remix,tailwind,,webpacktheme=light)](https://skillicons.dev)
 
-<img  align="left"  alt="Git"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  />
+<br>
 
- <img  align="left"  alt="GitHub"  width="26px"  src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"  />
+---
+![Sargis' github stats](https://github-readme-stats.vercel.app/api?username=sabovyan&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299)
 
-<img  align="left"  alt="HTML5"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img  align="left"  alt="CSS3"  width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  />
 
-<br /> <br />
 
-<img  align="left"  alt="Visual Studio Code"  width="26px"  src="https://static-00.iconduck.com/assets.00/apps-neovim-icon-1024x1024-cvzervfu.png"  />
+👋 **Sargis**: Great touch! Let's add a playful note at the end for a touch of humor.
 
- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+🤖 **AI**: Certainly! Mention that this content was brought to life by AI wizards, add some emojis, and invite curious minds to reach out for the magic behind the scenes.
 
- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
- <img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />
-
-<img  align="left"  alt="webpack"  width="26px"  src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"  />
-
-<br><br>
+👋 **Sargis**: Love it! Thanks, AI wizards! 🧙‍♂️✨
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sabovyan&count_private=true&hide=stars,prs&show_icons=true&theme=react)](https://github.com/sabovyan/github-readme-stats)
+🤖 **Brought to Life by AI Wizards**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabovyan&layout=compact&theme=react)](https://github.com/sabovyan/github-readme-stats))
+Behold! This dazzling piece of content was conjured into existence with a sprinkle of AI magic. 🧙✨ While I can't take credit for the AI's quirky sense of humor, rest assured that it did its best to be witty and insightful.
 
-<!--
-**sabovyan/sabovyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Remember, blame the algorithms for any jokes that fall flat, and feel free to reach out if you're curious about the wizardry behind the scenes! 🧠🤖✨
 
-Here are some ideas to get you started:
+👋 **Sargis**: That's a wrap, folks! Happy coding! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-### Languages and Tools that I am learning:
+*Text Generated by OpenAI's GPT-3.5 | Idea by Sargis Abovyan*
 
--->
